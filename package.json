@@ -1,0 +1,31 @@
+{
+  "name": "naijasub-vtu",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "^0.284.0",
+    "next-auth": "^4.24.5",
+    "react-paystack": "^4.0.3",
+    "clsx": "^2.0.0",
+    "tailwind-merge": "^1.14.0",
+    "animate.css": "^4.1.1"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest"
+  }
+}
